@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Karakter Anime</string>
+    <string name="nama_karakter">Nama Karakter</string>
+    <string name="deskripsi_karakter">Suguru Geto adalah antagonis dalam seri Jujutsu Kaisen dan prekuelnya Jujutsu Kaisen 0: Jujutsu High. Dia awalnya adalah murid Masamichi Yaga bersama Satoru Gojo dan Shoko Ieiri di SMA Jujutsu Tokyo. Pengalamannya sebagai penyihir jujutsu menimbulkan kebencian yang mendalam terhadap non-penyihir, yang menyebabkan insiden di mana Suguru membantai lebih dari seratus warga sipil dalam satu malam. Dia dikeluarkan dari SMA Jujutsu dan kemudian dikenal sebagai pengguna kutukan terburuk. </string>
+    <string name="profile">Profile</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="karakterk_birthday">Karakterk Birthday</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="_192_cm">192 CM</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bagikan_karakter">Bagikan Karakter</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="my_email">boybrahmanda03@gmail.com</string>
+    <string name="my_name">Kadek Boy Brahmanda Satrya Montana</string>
+
+    <string-array name="data_name">
+        <item>Gojo Satoru</item>
+        <item>Geto Suturu</item>
+        <item>Itadori Yuji</item>
+        <item>Megumi Fushiguro</item>
+        <item>Kento Nanami</item>
+        <item>Takumi Fujiwara</item>
+        <item>Ryosuke Takahashi</item>
+        <item>Keisuke Takahasi</item>
+        <item>Tsubasa Ozora</item>
+        <item>Midoriya Izuku</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Satoru Gojo adalah salah satu protagonis utama dari seri Jujutsu Kaisen. Dia merupakan penyihir jujutsu kelas khusus dan diakui sebagai yang penyihir jujutsu terkuat di dunia. Satoru adalah kebanggaan Keluarga Gojo, orang pertama yang mewarisi Mata Tanpa Batas dan Mata Enam dalam empat ratus tahun. </item>
+        <item>Suguru Geto adalah antagonis dalam seri Jujutsu Kaisen dan prekuelnya Jujutsu Kaisen 0: Jujutsu High. Dia awalnya adalah murid Masamichi Yaga bersama Satoru Gojo dan Shoko Ieiri di SMA Jujutsu Tokyo. Pengalamannya sebagai penyihir jujutsu menimbulkan kebencian yang mendalam terhadap non-penyihir, yang menyebabkan insiden di mana Suguru membantai lebih dari seratus warga sipil dalam satu malam. Dia dikeluarkan dari SMA Jujutsu dan kemudian dikenal sebagai pengguna kutukan terburuk. </item>
+        <item>Yuji Itadori adalah protagonis utama dari seri Jujutsu Kaisen. Dia adalah putra dari Jin Itadori dan Kaori Itadori. Yuji adalah cucu dari Wasuke Itadori yang hidup normal hingga bertemu Megumi dan memakan salah satu jari Sukuna. Setelah menjadi wadah Sukuna, Yuji mulai bersekolah di SMA Jujutsu Tokyo bersama Megumi dan Nobara sebagai siswa tahun pertama.</item>
+        <item>Megumi Fushiguro Adalah deuteragonist dari seri Jujutsu Kaisen. Dia adalah penyihir jujutsu kelas 2 dan siswa tahun pertama di SMA Jujutsu Tokyo bersama Yuji Itadori dan Nobara Kugisaki. Megumi merupakan saudara tiri dari Tsumiki Fushiguro dan sebagai anak dari Toji Fushiguro, Megumi juga merupakan keturunan dari Keluarga Zenin. Megumi lahir di luar klan sebagai kartu truf Toji dan akhirnya ditemukan oleh Satoru Gojo, yang membimbingnya dan mendaftarkannya di SMA Jujutsu sebagai muridnya.</item>
+        <item>Kento Nanami adalah karakter pendukung dalam Jujutsu Kaisen. Dia adalah mantan siswa SMA Jujutsu Tokyo di mana dia menjadi adik kelas Satoru Gojo dan Suguru Geto. Nanami awalnya meninggalkan SMA Jujutsu setelah lulus untuk menjadi pegawai gaji, namun kembali empat tahun kemudian untuk terus bekerja sebagai ahli sihir jujutsu.</item>
+        <item>Takumi Fujiwara adalah protagonis utama Inisial D. Dia berperan sebagai pengantar bisnis tahu ayahnya, mengendarai Toyota Sprinter Trueno GT-APEX (AE86) milik ayahnya hingga puncak gunung setiap pagi untuk mengantarkan tahu ke hotel pada hari itu. Setelah mengalahkan Keisuke Takahashi dalam pertarungan dadakan, dia dijuluki "Hantu Putih Akina" dan mulai balapan sendiri, kadang-kadang mewakili Akina SpeedStars dalam pertarungan. Dia akhirnya diundang untuk bergabung dengan Proyek D sebagai andalan mereka.</item>
+        <item>Ryosuke Takahashi adalah pendiri, dan pemimpin Akagi RedSuns dan Project D. Dikenal dengan julukan Komet Putih Akagi Ryosuke menciptakan RedSuns dengan tujuan mendominasi kancah balap jalanan di seluruh Jepang, merekrut saudaranya Keisuke dan orang lain di Gunung Akagi untuk mencapai tujuan ini</item>
+        <item>Keisuke Takahashi adalah karakter utama di Initial D, dan protagonis sekunder dari Arc Project D. Sebagai mantan anggota geng bosozoku, ia diperkenalkan ke balap jalanan oleh saudaranya Ryosuke dan bergabung dengan timnya, Akagi RedSuns, dan segera menjadi pembalap terbaik kedua di Mazda ɛ̃fini RX-7 Type R (FD3S) miliknya. Ia dan saudaranya dijuluki "The Rotary Brothers", karena keduanya mengendarai mobil bermesin putar.</item>
+        <item>Tsubasa Ozora adalah pemain sepak bola luar biasa yang bermimpi memenangkan Piala Dunia FIFA untuk Jepang suatu hari nanti. Serial ini mengikuti perkembangan Tsubasa dari kehidupan sekolah dasar di Jepang, hingga tim lain di negara lain serta tim nasional Jepang.</item>
+        <item>Izuku Midoriya juga dikenal sebagai Deku adalah protagonis utama dari serial manga dan anime My Hero Academia. Meskipun Izuku terlahir tanpa Quirk, ia berhasil menarik perhatian pahlawan legendaris All Might, karena kepahlawanan bawaannya dan rasa kepahlawanan yang kuat. keadilan, dan sejak itu menjadi murid dekatnya, serta siswa Kelas 1-A di U.A. Sekolah menengah atas. All Might mewariskan Quirknya yang dapat ditransfer ke Izuku, menjadikannya pemegang One For All yang kesembilan dan saat ini.</item>
+    </string-array>
+
+    <integer-array name="data_height">
+        <item>190</item>
+        <item>190</item>
+        <item>173</item>
+        <item>175</item>
+        <item>184</item>
+        <item>174</item>
+        <item>183</item>
+        <item>182</item>
+        <item>176</item>
+        <item>167</item>
+    </integer-array>
+
+    <string-array name="data_birthday">
+        <item>December 7, 1989</item>
+        <item>February 3, 1990</item>
+        <item>March 20, 2003</item>
+        <item>December 22, 2002</item>
+        <item>July 3, 1990</item>
+        <item>August 7, 2000</item>
+        <item>December 12, 1990</item>
+        <item>January 9, 2000</item>
+        <item>December 7, 1989</item>
+        <item>July 28, 2000</item>
+        <item>July 15, 2003</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://w0.peakpx.com/wallpaper/718/396/HD-wallpaper-anime-jujutsu-kaisen-satoru-gojo.jpg</item>
+        <item>https://cdna.artstation.com/p/assets/images/images/060/898/238/large/nfficially-suguru-geto-jujutsu-kaisen-by-nfficially-dfrvagq-fullview.jpg?1679557295</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/16/Yuji-Itadori-2287821343.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20220604/megumi-4bc64cfb9ac87ae3c7e9f74e811f02e1.jpeg</item>
+        <item>https://static.zerochan.net/Nanami.Kento.full.3257780.jpg</item>
+        <item>https://pm1.aminoapps.com/6280/8bcd8ab2c397b3e894f551260726dad73bdd44c2_hq.jpg</item>
+        <item>https://static.wikia.nocookie.net/initiald/images/4/42/Ryosuke1st.jpg/revision/latest?cb=20170202053210</item>
+        <item>https://static.wikia.nocookie.net/initiald/images/9/9a/Keisuke_Takahashi_First_Stage.png/revision/latest/scale-to-width-down/1000?cb=20210621134722</item>
+        <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/05/08/837778910.jpg</item>
+        <item>https://www.sosyncd.com/wp-content/uploads/2022/06/90.png</item>
+    </string-array>
+
+
+</resources>
